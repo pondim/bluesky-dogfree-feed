@@ -1,0 +1,6 @@
+name = "dogfree-feed"
+main = "src/worker.js"
+compatibility_date = "2024-01-01"
+
+[vars]
+PUBLISHER_DID = "did:plc:y45fmc3vzkq6y3a6mdyfo3df"
